@@ -1,4 +1,4 @@
-package main.Ejericio_13;
+package main.Ejercicio_13;
 
 public class Pacientes implements Comparable<Pacientes> {
     String paciente;

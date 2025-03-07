@@ -1,4 +1,4 @@
-package main.Ejercio_4;
+package main.Ejercicio_4;
 
 class Tarea implements Comparable<Tarea> {
     String descripcion;
