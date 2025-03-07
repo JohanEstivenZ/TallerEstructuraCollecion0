@@ -1,6 +1,5 @@
 package main.Ejercicio_9;
 
-import org.example.Ejercicio_9.Navegador;
 
 import java.util.Scanner;
 
